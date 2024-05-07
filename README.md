@@ -6,7 +6,7 @@ Data Analyst
 
 * 🌍  I'm based in fl,USA
 * ✉️  You can contact me at [premkumarmalepati8@gmail.com](mailto:malepati.prem14@gmail.com)
-* 🧠  I'm learning Data Engineering
+* 🧠  I'm a data enthusiast specializing in data analysis with a passion for extracting insights from diverse data sets. Here's what I do:
 
 ### Skills
 

@@ -1,11 +1,11 @@
 Hi 👋 My name is  PREM KUMAR MALEPATI
 ====================================
 
-Data Engineering
+Data Analyst
 --------------------
 
 * 🌍  I'm based in fl,USA
-* ✉️  You can contact me at [malepati.prem14@gmail.com](mailto:malepati.prem14@gmail.com)
+* ✉️  You can contact me at [premkumarmalepati8@gmail.com](mailto:malepati.prem14@gmail.com)
 * 🧠  I'm learning Data Engineering
 
 ### Skills
